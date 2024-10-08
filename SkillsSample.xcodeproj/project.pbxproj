@@ -23,6 +23,7 @@
 		EDDF0A102C7B29F100677C3B /* FView.swift in Sources */ = {isa = PBXBuildFile; fileRef = EDDF0A0F2C7B29F100677C3B /* FView.swift */; };
 		EDDF0A122C7B2C2F00677C3B /* NavigationViewExtension.swift in Sources */ = {isa = PBXBuildFile; fileRef = EDDF0A112C7B2C2F00677C3B /* NavigationViewExtension.swift */; };
 		EDDF0A162C972C6F00677C3B /* Localizable.xcstrings in Resources */ = {isa = PBXBuildFile; fileRef = EDDF0A152C972C6F00677C3B /* Localizable.xcstrings */; };
+		EDDF0A182CB58BF900677C3B /* LocalizedStringKeyExtension.swift in Sources */ = {isa = PBXBuildFile; fileRef = EDDF0A172CB58BF900677C3B /* LocalizedStringKeyExtension.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -62,6 +63,7 @@
 		EDDF0A0F2C7B29F100677C3B /* FView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FView.swift; sourceTree = "<group>"; };
 		EDDF0A112C7B2C2F00677C3B /* NavigationViewExtension.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = NavigationViewExtension.swift; sourceTree = "<group>"; };
 		EDDF0A152C972C6F00677C3B /* Localizable.xcstrings */ = {isa = PBXFileReference; lastKnownFileType = text.json.xcstrings; path = Localizable.xcstrings; sourceTree = "<group>"; };
+		EDDF0A172CB58BF900677C3B /* LocalizedStringKeyExtension.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = LocalizedStringKeyExtension.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -115,6 +117,7 @@
 				EDAA5C6D2C7B1D0F007A2D8B /* SkillsSampleApp.swift */,
 				EDAA5C9C2C7B20C1007A2D8B /* RootView.swift */,
 				EDDF0A112C7B2C2F00677C3B /* NavigationViewExtension.swift */,
+				EDDF0A172CB58BF900677C3B /* LocalizedStringKeyExtension.swift */,
 				EDDF0A072C7B24E000677C3B /* AView.swift */,
 				EDDF0A092C7B24E700677C3B /* BView.swift */,
 				EDDF0A0B2C7B24EF00677C3B /* CView.swift */,
@@ -294,6 +297,7 @@
 				EDDF0A102C7B29F100677C3B /* FView.swift in Sources */,
 				EDAA5C6E2C7B1D0F007A2D8B /* SkillsSampleApp.swift in Sources */,
 				EDDF0A0C2C7B24EF00677C3B /* CView.swift in Sources */,
+				EDDF0A182CB58BF900677C3B /* LocalizedStringKeyExtension.swift in Sources */,
 				EDDF0A0E2C7B29DF00677C3B /* DView.swift in Sources */,
 				EDDF0A082C7B24E000677C3B /* AView.swift in Sources */,
 				EDDF0A122C7B2C2F00677C3B /* NavigationViewExtension.swift in Sources */,

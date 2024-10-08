@@ -7,17 +7,6 @@
 
 import SwiftUI
 
-extension LocalizedStringKey {
-
-    var stringValue: String {
-        NSLocalizedString(self.stringKey, comment: "")
-    }
-    
-    private var stringKey: String {
-        Mirror(reflecting: self).children.first(where: { $0.label == "key" })?.value as? String ?? ""
-    }
-}
-
 struct CView: View {
     @Environment(\.dismiss) private var dismiss
     
