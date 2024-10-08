@@ -1,0 +1,92 @@
+{
+  "sourceLanguage" : "en",
+  "strings" : {
+    "A" : {
+      "localizations" : {
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "A"
+          }
+        }
+      }
+    },
+    "B" : {
+      "localizations" : {
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "B"
+          }
+        }
+      }
+    },
+    "C" : {
+      "localizations" : {
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "C"
+          }
+        }
+      }
+    },
+    "D" : {
+      "localizations" : {
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "D"
+          }
+        }
+      }
+    },
+    "F" : {
+      "localizations" : {
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "F"
+          }
+        }
+      }
+    },
+    "message" : {
+
+    },
+    "title" : {
+
+    },
+    "打开Alert" : {
+      "localizations" : {
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "哈哈哈哈Alert"
+          }
+        }
+      }
+    },
+    "打开B" : {
+      "localizations" : {
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "哈哈哈哈B"
+          }
+        }
+      }
+    },
+    "打开C" : {
+      "localizations" : {
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "哈哈哈哈C"
+          }
+        }
+      }
+    }
+  },
+  "version" : "1.0"
+}
